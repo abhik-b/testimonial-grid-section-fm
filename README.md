@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Abhik B | Tip Calculator](https://abhik-b.github.io/tip-calculator-app-main/)
+- Solution URL: [My Solution](https://www.frontendmentor.io/solutions/responsive-testimonials-grid-with-staggering-animations-FUdLAgbilC)
+- Live Site URL: [Abhik B | Testimonial Grid Section](https://abhik-b.github.io/testimonial-grid-section-fm/)
 
 ## My process
 
